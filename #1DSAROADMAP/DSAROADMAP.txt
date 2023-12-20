@@ -1,0 +1,24 @@
+
+DSA ROADMAP using NodeJS
+0: Array and Hashing
+    0.0: Two Pointer 
+        0.0.0: Binary Search
+        0.0.1: Sliding Window
+        0.0.2: Linked List
+            0.0.2.0: Tress
+                0.0.2.0.0: Tries
+                0.0.2.0.1: Heap / Priority Queue
+                    0.0.2.0.1.0: Intervals
+                    0.0.2.0.1.1: Greedy
+                    0.0.2.0.1.2: Advance Graph                    
+                0.0.2.0.2: Backtracking     
+                    0.0.2.0.2.0: Graph
+                        0.0.2.0.2.0.0: Advance Graph
+                        0.0.2.0.2.0.1: Math and Geometry
+                        0.0.2.0.2.0.1: 2-D DP
+                    0.0.2.0.2.1: 1-D DP
+                        0.0.2.0.2.1.0: 2-D DP
+                        0.0.2.0.2.1.1: Bit Manipulations
+                            0.0.2.0.2.1.1.0: Math and Geometry
+    0.1: Stack
+
